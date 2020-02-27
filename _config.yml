@@ -1,6 +1,6 @@
 title: "Blog Title"
 author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+description: "The world's a playground. You know that when you are a kid, but somewhere along the way everyone forgets it."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -36,8 +36,8 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-remote-theme
 
 remote_theme: niklasbuschmann/contrast@v2.6
 
-plugins:
-  - jekyll-remote-theme
+
