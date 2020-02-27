@@ -36,3 +36,8 @@ comments:
 
 plugins:
  - jekyll-feed
+
+remote_theme: niklasbuschmann/contrast@v2.6
+
+plugins:
+  - jekyll-remote-theme
